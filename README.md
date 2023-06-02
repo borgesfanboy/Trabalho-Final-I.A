@@ -1,5 +1,5 @@
 # JOGO DA VELHA JOGADO CONTRA UMA I.A.
-Código desenvovildo baseado em um pygame de jogo da velha que representa jogo de players vs i.a
+Código desenvolvido em pygame de um jogo da velha que representa jogada de player vs i.a.
 
 # Requisitos para funcionamento
 . Python 3 
